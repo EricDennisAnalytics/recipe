@@ -1,6 +1,5 @@
 
 # Tuscan Chicken Skillet
 
-line 2 changed remotely.
+### RECIPE COURTESY OF FOOD NETWORK KITCHEN
 
-### This is a REMOTE change :O
